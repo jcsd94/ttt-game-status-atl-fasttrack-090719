@@ -10,7 +10,7 @@ WIN_COMBINATIONS = [
 
 
 #OUTPUT BOARD
-def display_board(
+def display_board
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
   puts 'display board'
 #board output
